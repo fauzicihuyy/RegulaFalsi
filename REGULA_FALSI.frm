@@ -1,7 +1,7 @@
 VERSION 5.00
 Begin VB.Form Regula_Falsi 
    BorderStyle     =   4  'Fixed ToolWindow
-   Caption         =   "FARID_AR_207011085_C"
+   Caption         =   "REGULA FALSI"
    ClientHeight    =   7395
    ClientLeft      =   120
    ClientTop       =   465
