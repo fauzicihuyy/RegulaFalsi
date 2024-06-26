@@ -1,11 +1,11 @@
 Type=Exe
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Form=FARID_REGULA_FALSI.frm
+Form=REGULA_FALSI.frm
 Startup="Regula_Falsi"
 HelpFile=""
-ExeName32="FARID_AR_207011085_C.exe"
+ExeName32="REGULA FALSI.exe"
 Command32=""
-Name="FARID_AR_207011085_C"
+Name="REGULA FALSI"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1
